@@ -32,7 +32,7 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value: 🙋 explained
   - Identifier
   - Variable
   - Constant
